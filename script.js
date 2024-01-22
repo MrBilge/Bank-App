@@ -195,7 +195,7 @@ const updateUI = function (acc) {
 
 const startLogOutTimer = function () {
   // Set time to 5 minutes
-  let time = 30;
+  let time = 300;
 
   // tick icindeki komutları bilerek tick fonksiyonu olusturarak yazdık cunku time sayacı başta farklı değer gözüktükten sonra isleme geciyordu onu düzeltmek icin bir fonksiyon icerisine aldık  *******
 
